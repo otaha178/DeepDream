@@ -5,8 +5,7 @@ DeepDream is an artistic image-modification technique that uses the representati
 learned by convolutional neural networks. It was first released by Google in the summer
 of 2015, as an implementation written using the Caffe deep-learning library (this
 was several months before the first public release of TensorFlow).4 It quickly became
-an internet sensation thanks to the trippy pictures it could generate (see, for example,
-figure 8.3), full of algorithmic pareidolia artifacts, bird feathers, and dog eyes—a
+an internet sensation thanks to the trippy pictures it could generate, full of algorithmic pareidolia artifacts, bird feathers, and dog eyes—a
 byproduct of the fact that the DeepDream convnet was trained on ImageNet, where
 dog breeds and bird species are vastly overrepresented.
 
