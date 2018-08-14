@@ -10,7 +10,7 @@ figure 8.3), full of algorithmic pareidolia artifacts, bird feathers, and dog ey
 byproduct of the fact that the DeepDream convnet was trained on ImageNet, where
 dog breeds and bird species are vastly overrepresented.
 
-#What is really happening
+What is really happening
 -----------------------------------------------------------------------------------------
 1- With DeepDream, you try to maximize the activation of entire layers rather
 than that of a specific filter, thus mixing together visualizations of large numbers
@@ -23,7 +23,7 @@ elements of the image in a somewhat artistic fashion.
 3- The input images are processed at different scales (called octaves), which
 improves the quality of the visualizations.
 
-#Code describtion
+Code describtion
 -----------------------------------------------------------------------------------------
 After importing the packages we will be using
 
